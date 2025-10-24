@@ -21,19 +21,19 @@
 
 ---
 
-## 🚀 Мои проекты
+## Мои проекты
 
-### [Velosity - Task Management System](https://github.com/MorozovaAnastasiaa/velosity)
+### [Velosity - Task Management System](https://github.com/MorozovaAnastasiaa/velocity)
 Backend-приложение для управления задачами с канбан-доской
 - **Стек:** Java, Spring Boot, Security, Hibernate, PostgreSQL, Liquibase
 - **Особенности:** REST API, миграции БД, unit-тесты, глобальная обработка ошибок
 
-### [Информационная система ж/д вокзала](https://github.com/MorozovaAnastasiaa/railway-station-system)
+### [Информационная система ж/д вокзала](https://github.com/MorozovaAnastasiaa/railway-station)
 Веб-приложение для управления расписанием поездов
 - **Стек:** Spring Boot, Security, Hibernate, Thymeleaf, PostgreSQL
 - **Особенности:** MVC архитектура, аутентификация
 
-### [Исследование Hibernate](https://github.com/MorozovaAnastasiaa/hibernate-research)
+### [Исследование Hibernate](https://github.com/MorozovaAnastasiaa/order-manager)
 Учебный проект по низкоуровневой работе с Hibernate
 - **Стек:** Java, Hibernate, PostgreSQL
 - **Особенности:** Чистая конфигурация Hibernate, работа с SessionFactory
