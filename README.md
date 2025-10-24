@@ -1,16 +1,65 @@
-## Hi there 👋
+# Привет, меня зовут Анастасия
 
-<!--
-**MorozovaAnastasiaa/MorozovaAnastasiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Я начинающий Backend-разработчик на Java**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Технологический стек
+
+**Backend:**
+- Java, Spring Boot, Spring Security, Hibernate/JPA
+- REST API
+- Maven, JUnit, Mockito, MockMvc
+
+**Базы данных:**
+- PostgreSQL, SQL
+- Liquibase (миграции)
+
+**Инструменты:**
+- Git, IntelliJ IDEA, Postman
+- Docker (изучаю)
+
+---
+
+## 🚀 Мои проекты
+
+### [Velosity - Task Management System](https://github.com/MorozovaAnastasiaa/velosity)
+Backend-приложение для управления задачами с канбан-доской
+- **Стек:** Java, Spring Boot, Security, Hibernate, PostgreSQL, Liquibase
+- **Особенности:** REST API, миграции БД, unit-тесты, глобальная обработка ошибок
+
+### [Информационная система ж/д вокзала](https://github.com/MorozovaAnastasiaa/railway-station-system)
+Веб-приложение для управления расписанием поездов
+- **Стек:** Spring Boot, Security, Hibernate, Thymeleaf, PostgreSQL
+- **Особенности:** MVC архитектура, аутентификация
+
+### [Исследование Hibernate](https://github.com/MorozovaAnastasiaa/hibernate-research)
+Учебный проект по низкоуровневой работе с Hibernate
+- **Стек:** Java, Hibernate, PostgreSQL
+- **Особенности:** Чистая конфигурация Hibernate, работа с SessionFactory
+
+---
+
+## Статистика
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MorozovaAnastasiaa&layout=compact&theme=radical)
+
+---
+
+## Контакты
+
+- **Email:** nastemorozovoi@gmail.com
+- **Telegram:** [@anstya](https://t.me/anstya)
+
+---
+
+## Образование
+
+**Финансовый университет при Правительстве РФ**  
+Факультет информационных технологий и анализа больших данных  
+Направление: "Программная инженерия"  
+3 курс, 2027 год окончания
+
+---
+
+*Открыта к предложениям о стажировке и сотрудничестве в backend-разработке!*
